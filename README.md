@@ -5,6 +5,7 @@ Sharing with you is the Covid-19 Analysis dashboard (India). The dataset was pro
 This Analysis and Visualization was carried out using PowerBI, which involves the used of power query for cleaning and modification of the data set and DAX measures for calculations.
 
 ![](https://github.com/OligbindeAyobami/Task-InternCareer-Covid-19-Analysis/blob/main/new%20covid19%202.pdf)
+
 ### Key Insights
 Maharashtra and Karnataka were the mostly affected states.
 
