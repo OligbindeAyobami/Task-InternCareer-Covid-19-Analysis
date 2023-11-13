@@ -13,3 +13,18 @@ More Male gender took the covid-19 vaccine compared to their female counterparts
 April 2021 recorded more cases,recoveriesand deaths.
 
 We have more people testing negative when their sample were take for test and April 2021 top the period list with most test carried out.
+
+### Recommedation
+Nonstop awareness program to educate the public about the pandemic, it effects, how to control it and what the government and it agencies has done so far.
+
+Continue implementation of public health measures such as use of noise mask and social distancing while in public places
+
+Increase testing capacity and improve tracking system.
+
+Promote vaccination and enlightening the public on why it's important.
+
+Encouragement of private sector and international groups to assist the government and it agencies in term of funds, equipment and services support.
+
+Provide adequate support to all Healthcare workers in terms of training, equipment and human management.
+
+Improve data collection and documentation which help to understand the trend and spread of the virus and efforts made so far.
